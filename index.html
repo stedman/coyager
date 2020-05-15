@@ -33,13 +33,13 @@
 			background: black url(assets/noise.png);
 			color: hsl(35.7, 87.6%, 59%);
 			font-family: "CoyagerEOT", "CoyagerOTF", "CoyagerTTF", "CoyagerSVG";
-			margin: 3em;
+			margin: 3vw;
 		}
 
 		.main {
 			border: 5px dotted #f2a83b;
       max-width: 65rem;
-			padding: 2em 3em;
+			padding: 2vw 3vw;
 		}
 
 		div {
@@ -92,6 +92,24 @@
 			font-size: 1.5em;
 			font-weight:normal;
 		}
+
+    @media screen and (max-width: 768px){
+      .biggest {
+        font-size: 2em;
+      }
+
+		  .bigger {
+        font-size: 1.75em;
+      }
+
+		  .big {
+        font-size: 1.5em;
+      }
+
+		  .sorta-big {
+        font-size: 1.25em;
+      }
+    }
 
 		a {
 			color: hsl(35.7, 87.6%, 79%);
