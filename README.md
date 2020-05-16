@@ -1,6 +1,6 @@
-# coyager
+# Coyager
 
-> TL;DR This is "fan art" font based on the nifty ASCII display face at <https://shoptalkshow.com>.
+> TL;DR This is a "fan art" font based on the nifty ASCII display face at <https://shoptalkshow.com>.
 
 While having fun with the kids and the [BirdFont editor](https://birdfont.org/), I decided to take a crack at turning the [ShopTalk Show](https://shoptalkshow.com/)'s cool retro ASCII heading type into a font.
 
